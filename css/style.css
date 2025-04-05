@@ -71,7 +71,7 @@ section {
 
 #home {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('image/hero1.jpg');
+  url('image/heroimg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -268,7 +268,7 @@ h6 {
 
 #contact {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("image/contbg.jpg");
+    url('image/contbg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
